@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-01",
+	"location": "usgovvirginia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00b63ea4-446b-4cf5-9ac2-8a3cbc02c524",
+		"tenantId": "40a3c411-b2a7-4f7b-a28e-05bf8dd7ab7b"
+	}
+}
