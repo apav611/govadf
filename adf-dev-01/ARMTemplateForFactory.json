@@ -4,8 +4,7 @@
 	"parameters": {
 		"factoryName": {
 			"type": "string",
-			"metadata": "Data Factory name",
-			"defaultValue": "adf-dev-01"
+			"metadata": "Data Factory name"
 		}
 	},
 	"variables": {
