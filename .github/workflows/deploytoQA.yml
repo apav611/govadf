@@ -31,7 +31,7 @@ jobs:
         # Provide the scope of the deployment. Valid values are: 'resourcegroup', 'managementgroup', 'subscription'
         scope: 'resourcegroup'
         # Target resource group of the deployment.
-        resourceGroupName: 'rg-adf-test'
+        resourceGroupName: 'rg-adf-qa'
         # Specify the path to the ADF ARM template. In this scenario, the workflow is in the same branch, 
         # hence we only add the folder and arm template name to the path
         template: ./adf-dev-01/ARMTemplateForFactory.json
